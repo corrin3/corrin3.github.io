@@ -1,7 +1,8 @@
 html,
 body {
-  background-color: #ccffcc;
+	background-color: #ccffcc;
 } 
-                h1 style="color:#ecb3ff"> </p> 
-		p style="color:#ecb3ff"> </p>
-		div style="color:#ecb3ff">hi</p>
+.text {
+	color: #ecb3ff;
+	text-align: center;
+}
