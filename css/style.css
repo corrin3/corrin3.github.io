@@ -8,8 +8,6 @@ body {
 	text-align: center;
 	font-family: 'Martel'; 
 }
-img:https://media1.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif {
-	
-  position: relative;
-  left: 400px;
+img:https://media1.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif
+  padding:50px 0 0 50px;
 }
