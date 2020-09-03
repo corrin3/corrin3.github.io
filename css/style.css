@@ -11,7 +11,7 @@ body {
 img{
   width: 150px;
   height: 150px;
-  position: absolute;
-  top: 50px;
+  position: relative;
+  top: 100px;
   left: 50px;
 }
