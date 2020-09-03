@@ -8,3 +8,10 @@ body {
 	text-align: center;
 	font-family: 'Martel'; 
 }
+img: {
+  width: 150px;
+  height: 150px;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
