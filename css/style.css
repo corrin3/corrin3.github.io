@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@700&display=swap');
 html,
 body {
 	background-color: #ccffcc;
@@ -6,5 +6,5 @@ body {
 .text {
 	color: #ecb3ff;
 	text-align: center;
-	font-family: 'Indie Flower'; 
+	font-family: 'Martel'; 
 }
